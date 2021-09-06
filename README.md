@@ -18,6 +18,9 @@ see the [circuit](https://github.com/scoutquinn/circuit) folder for drawings of 
 
 there's a demo on [twitter](https://twitter.com/pathofunction/status/1434861551324852231).
 
+- [ ] REVISION I UPDATE: CHANGE CERTAIN CAPACITORS TO ELECTROLYTIC
+- [ ] REVISION I UPDATE: SEE IF A 40106 SOUNDS DIFFERENT
+
 ## TODO
 
 - [ ] fix leakage on oscilator mutes or remove them
