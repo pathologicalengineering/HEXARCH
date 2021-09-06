@@ -1,5 +1,5 @@
-![power](circuit/power.jpg)
+![power](power.jpg)
 
-![oscilators](circuit/oscilators.jpg)
+![oscilators](oscilators.jpg)
 
-![audio](circuit/audio.jpg)
+![audio](audio.jpg)
