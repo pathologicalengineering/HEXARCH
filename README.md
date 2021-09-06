@@ -14,6 +14,8 @@ the design is more or less straightforward enough to make on the [Looney Board](
 
 first design uses a 74HC14, the original Cacophonator uses an older 40106.
 
+see the [circuit](scoutquinn/circuit) folder for drawings of the design.
+
 ## TODO
 
 - [ ] fix leakage on oscilator mutes or remove them
@@ -24,7 +26,7 @@ first design uses a 74HC14, the original Cacophonator uses an older 40106.
 
 ## CONTROLS
 
-![controls])controls.jpg)
+![controls](controls.jpg)
 
 should be fairly self explanitory from the drawing, xandra figured it out before i labelled them all.
 
