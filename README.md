@@ -14,7 +14,9 @@ the design is more or less straightforward enough to make on the [Looney Board](
 
 first design uses a 74HC14, the original Cacophonator uses an older 40106.
 
-see the [circuit](scoutquinn/circuit) folder for drawings of the design.
+see the [circuit](https://github.com/scoutquinn/circuit) folder for drawings of the design.
+
+there's a demo on [twitter](https://twitter.com/pathofunction/status/1434861551324852231).
 
 ## TODO
 
