@@ -24,12 +24,13 @@ there's a demo on [twitter](https://twitter.com/pathofunction/status/14348615513
 ## TODO
 
 - [ ] fix leakage on oscilator mutes or remove them\*
-- [ ] audio kill switch
-- [ ] audio "cut up" momentary kill switch
+- [ ] audio kill switch\*\*
+- [ ] audio "cut up" momentary kill switch\*\*
 - [ ] variable oscilator frequencies?
 - [ ] change resistive/diode mixing to one switch for all 4 oscilators
 
 \* _mute is currently on the "audio out" for each oscilator, potentially move the mute to the feedback resistor line (before the potentiometer)_
+\*\* _would definite be easier to do this in a little external housing like a mini stomp box_
 
 ## CONTROLS
 
