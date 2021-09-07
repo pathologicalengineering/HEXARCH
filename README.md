@@ -14,7 +14,7 @@ the design is more or less straightforward enough to make on the [Looney Board](
 
 first design uses a 74HC14, the original Cacophonator uses an older 40106.
 
-see the [circuit](https://github.com/scoutquinn/hexarch/circuit) folder for drawings of the design.
+see the [circuit](circuit) folder for drawings of the design.
 
 there's a demo on [twitter](https://twitter.com/pathofunction/status/1434861551324852231).
 
@@ -40,4 +40,4 @@ should be fairly self explanitory from the drawing, xandra figured it out before
 
 ## REVISION II
 
-revision ii should have everything in the TODO list, may need a bigger housing. see the [revision](https://github.com/scoutquinn/hexarch/revision) folder.
+revision ii should have everything in the TODO list, may need a bigger housing. see the [revision](revision) folder.
