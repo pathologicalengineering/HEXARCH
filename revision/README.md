@@ -1,7 +1,9 @@
 # REVISION II
 
-might need to rework the entire design on a new Looney Board to get this to work, might get away with using the original housing.
+![audiorevision](audiorevision.jpg)
 
-![revision](revision.jpg)
+![oscrevision](oscrevision.jpg)
 
-_(just realised this will only work with frequency select **OR** oscilator mute if it's to fit in the original housing)._
+![switchesrevision](switchesrevision.jpg)
+
+_this should all "fit" with some minimal work, and some rewiring/resoldering. I might also change some caps for electrolytic types while i'm in there._
