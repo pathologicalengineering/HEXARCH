@@ -2,10 +2,6 @@
 
 ![hexarch](hexarch.jpg)
 
-the HEXARCH is a modified [Cacophonator](https://theremin.us/Circuit_Library/cacophonator.html).
-
-the design is more or less straightforward enough to make on the [Looney Board](https://fluxmonkey.com/pcbDocs/looney1.htm)
-
 ## REVISION I
 
 4 oscilators, ~~with selectable mute~~ *(one mute and cut-up momentary button for all 4 oscilators)* and selectable resistive/diode mixing. 2 power fuckers, 1 voltage starver. volume control. on/off and pulse on. large capacitor provides current when switched off for... a bit, 2200uF seems to be a minute or so. *(maybe replace with a 220uF)*
